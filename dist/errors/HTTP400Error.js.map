@@ -1,1 +1,0 @@
-{"version":3,"file":"HTTP400Error.js","sourceRoot":"","sources":["../../src/errors/HTTP400Error.ts"],"names":[],"mappings":";;AACA,2CAAoC;AACpC,6DAAuD;AAEvD,MAAM,YAAa,SAAQ,mBAAS;IAChC,YAAY,WAAW,GAAG,aAAa;QACnC,KAAK,CAAC,WAAW,EAAE,+BAAc,CAAC,WAAW,EAAE,IAAI,EAAE,WAAW,CAAC,CAAC;IACtE,CAAC;CACJ;AAED,kBAAe,YAAY,CAAC"}
